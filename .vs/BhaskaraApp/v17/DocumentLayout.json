@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Professor\\Desktop\\Prepara\u00E7\u00E3o\\BhaskaraApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAF15F3-D9C8-48F4-B1E2-872253329F4F}|BhaskaraApp\\BhaskaraApp.csproj|c:\\users\\professor\\desktop\\prepara\u00E7\u00E3o\\bhaskaraapp\\bhaskaraapp\\bhaskara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAF15F3-D9C8-48F4-B1E2-872253329F4F}|BhaskaraApp\\BhaskaraApp.csproj|solutionrelative:bhaskaraapp\\bhaskara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAF15F3-D9C8-48F4-B1E2-872253329F4F}|BhaskaraApp\\BhaskaraApp.csproj|c:\\users\\professor\\desktop\\prepara\u00E7\u00E3o\\bhaskaraapp\\bhaskaraapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAF15F3-D9C8-48F4-B1E2-872253329F4F}|BhaskaraApp\\BhaskaraApp.csproj|solutionrelative:bhaskaraapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bhaskara.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\Prepara\u00E7\u00E3o\\BhaskaraApp\\BhaskaraApp\\Bhaskara.cs",
+              "RelativeDocumentMoniker": "BhaskaraApp\\Bhaskara.cs",
+              "ToolTip": "C:\\Users\\Professor\\Desktop\\Prepara\u00E7\u00E3o\\BhaskaraApp\\BhaskaraApp\\Bhaskara.cs",
+              "RelativeToolTip": "BhaskaraApp\\Bhaskara.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:18:25.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\Prepara\u00E7\u00E3o\\BhaskaraApp\\BhaskaraApp\\Program.cs",
+              "RelativeDocumentMoniker": "BhaskaraApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Professor\\Desktop\\Prepara\u00E7\u00E3o\\BhaskaraApp\\BhaskaraApp\\Program.cs",
+              "RelativeToolTip": "BhaskaraApp\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:17:49.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
